@@ -1,0 +1,40 @@
+
+h1{
+
+    color: brown;
+
+}
+#p1
+{
+    line-height: 30px;
+    color: blue;
+    letter-spacing:2px;
+    text-align: justify;
+    text-decoration: underline;
+    text-indent: 15px;
+    text-transform: uppercase;
+}
+#p2
+{
+
+    font-family: cursive;
+    font-size: 2em;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#p3
+{
+
+    list-style-position: inside;
+    list-style-type: square;
+
+}
+#p5
+{
+    height: 80vh;
+    width: 50vw;
+    border: 5px solid red;
+
+}
